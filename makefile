@@ -5,6 +5,6 @@ main.o: main.c
 	gcc -c main.c
 
 cleanAll:
-	rm edit main.o
+	rm test main.o
 clean:
 	rm main.o
